@@ -2,59 +2,16 @@
 layout: default
 ---
 
-* TOC Stub
-{:toc}
+# Frequently Asked Questions
 
-# Overview
+## Can I field more than 3 outfielders?
 
-## What is GameChanger?
+>  I understand the GameChanger app is used mostly for Majors and Minors divisions and not for non-competitive divisions like Machine Pitch. In Machine Pitch, we usually have 4 or 5 outfielders so all of the kids can be fielding and no one is benched. Is there any way the app allows for more than 3 outfielders? If so, how?
 
-GameChanger[^1] is a scorekeeping app for your iPhone that lets you collect and analyze player data throughout the season.
+In the settings of GC you can add a fourth outfielder. You won't be able to add five. [Here are directions on how to do so.](https://gamechanger.zendesk.com/hc/en-us/articles/213569643-Adding-Extra-Fielders-and-Batters-)
 
-## Is there a cost?
-
-The use of GC is free for up to 4 scorekeepers and coaches per team. Fans of the team can also use the app in a limited capacity (for example, watching play-by-plays of live games). More options are available for purchase from the GC website.
-
-# Team Administration
-
-## How do I add a new team?
-
-1. On the [GC website][gc_com] hit the "Mange Teams" link under the "Your Teams" menu:
-
-    ![manage_your_teams](images/manage_your_teams.png){:class='img-responsive' height='100px'}
-
-2. On the right side of the page hit the "Add a new scoring team" button:
-
-    ![add_new_team](images/add_new_team.png){:class='img-responsive' height='150px'}
-
-3. Enter in the relevant information about the new team (League, zip code, age range, etc.)
-
-## How do I add team admins?
-
-Team admins include other scorekeepers and coaches. From the [GC website][gc_com], click the "Add coaching staff" button on the lower-right of the page:
-
-![add_coaching_staff](images/add_coaching_staff.png){:class='img-responsive' height='150px'}
-
-## How do I add / edit players?
-
-1. From the [GC website][gc_com], click the "Roster and Lineup" tab towards the top of the page:
-
-    ![roster_and_lineup](images/roster_and_lineup.png){:class='img-responsive' height='100px'}
-
-2. Click the "Add or Edit Players" button towards the bottom-left of the page:
-
-    ![add_or_edit_players](images/add_or_edit_players.png){:class='img-responsive' height='100px'}
-
-## Can I practice scorekeeping?
-
-There is a "Try Scorekeeping" option from the main menu.
-
-![try_scorekeeping](images/try_scorekeeping.png){:class='img-responsive' height='400px'}
+Having a maxiumum of four outfielders shouldn't be too big of a deal at that level, though, as the GC tracking will be more for batting than fielding.
 
 # Providing Feedback
 
-If you have questions, comments, or other feedback on this guide, log them as new issues [here](https://github.com/gcguide/gcguide.github.io/issues).
-
-[^1]: GameChanger is abbreviated GC in this document.
-
-[gc_com]: http://gc.com
+If you have questions, comments, or other feedback, log them as new issues [here](https://github.com/gcguide/gcguide.github.io/issues).
