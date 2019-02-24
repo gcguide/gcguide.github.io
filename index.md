@@ -1,6 +1,14 @@
 ---
 layout: default
+title: GameChanger Guide
 ---
+
+* TOC Stub
+{:toc}
+
+# GameChanger 101 Webinar
+
+A webinar took place in February 2019 to go over some of GameChanger's mechanics. You can watch it [here](https://youtu.be/gi36ITJoiwE).
 
 # Frequently Asked Questions
 
